@@ -28,9 +28,9 @@
 			"value": "TurboMods"
 		},
 		"OWNER_NUMBER": {
-			"description": "Add the owner number here",
+			"description": "94707330571",
 			"required": true,
-			"value": "916380260672"
+			"value": "94705330571"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
@@ -63,7 +63,7 @@
 			"value": "https://telegra.ph/file/a90b046455ab6c7e089e3.jpg"
 		},
 		"BOT_NAME": {
-			"description": "Enter Your Bot Name",
+			"description": "Mahi BOtz",
 			"required": true,
 			"value": "Toxic-Alexa_V3"
 		},
@@ -83,9 +83,9 @@
 			"value": "🇮🇳"
 		},
 		"OWNER_TAG": {
-			"description": "Enter Your Number For Owner Tag",
+			"description": "94707330571",
 			"required": true,
-			"value": "916380260672"
+			"value": "94707330571"
 		},
 		"DOCUMENT1": {
 			"description": "If You Dont known What Is This Then Don't Change This",
